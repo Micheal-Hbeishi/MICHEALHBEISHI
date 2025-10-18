@@ -1,11 +1,11 @@
 ## Hello, I am Micheal Hbeishi
 <a href="www.linkedin.com/in/micheal-hbeishi-ca"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 
-[Breif Introduction]
+# Breif Introduction
 
 I am an Information Technology Student who is passionate in cyber security.
 
-Objective
+# Objective
 
 My journey in Information Technology has led me to develop a passion in cybersecurity, of which I am eager to transition into, specifically in the GRC/Cloud Security domain.
 
