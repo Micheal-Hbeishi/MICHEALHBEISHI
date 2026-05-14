@@ -14,6 +14,7 @@ My journey in Information Technology has led me to develop a passion in cybersec
 |Creating a SOC Lab with Azure   |<a href="">SOC Lab Overview</a>                       |
 |Incident Response With Azure    |<a href="">Incident Response and Planning</a>         |
 
+
 # Cloud
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
 
@@ -25,6 +26,8 @@ My journey in Information Technology has led me to develop a passion in cybersec
 
 # Projects
 - HoneyPot SOC SIEM using Azure
+- Port Scanner - Python
+- API KEY Python
 <!--
 **Micheal-Hbeishi/Micheal-Hbeishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
